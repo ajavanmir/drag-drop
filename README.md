@@ -1,6 +1,3 @@
-در اینجا قالبی برای فایل **README.md** برای کلاسی که برای قابلیت کشیدن و رها کردن (drag & drop) طراحی شده است ارائه می‌شود. این فایل تمام جزئیات لازم درباره پروژه را شامل می‌شود:
-
-```markdown
 # JavaScript Draggable Class
 
 A lightweight, customizable JavaScript class for implementing drag-and-drop functionality. This class allows you to create a draggable list with simple initialization and event handling.
@@ -122,10 +119,3 @@ A working example can look like this:
 ## License
 
 Released under the MIT License.
-```
-
-### توضیحات
-- **نصب و استفاده**: شامل اطلاعاتی برای شروع سریع پروژه.
-- **ویژگی‌ها**: قابلیت‌هایی که کلاس شما ارائه می‌دهد.
-- **سفارشی‌سازی**: نحوه تغییر تنظیمات و ظاهر.
-- **مجوز**: اطلاعات مربوط به استفاده از کد.
