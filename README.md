@@ -116,6 +116,7 @@ A working example can look like this:
 </html>
 ```
 
-## License
-
-Released under the MIT License.
+### **License**
+This project is licensed under the MIT License.  
+**Copyright Amir Javanmir**  
+Released on: February 12, 2024
