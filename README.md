@@ -17,7 +17,7 @@ Include a preview link or GIF to demonstrate how the drag-and-drop functionality
 
 1. Clone the repository or copy the `draggable` class file:
    ```bash
-   git clone https://github.com/yourusername/draggable.git
+   git clone https://github.com/ajavanmir/drag-drop.git
    ```
 2. Include the JavaScript file in your project:
    ```html
